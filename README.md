@@ -1,4 +1,4 @@
-## Profile Summary
+<h1 align="center">## Profile Summary
 
 <!--
 ** />
