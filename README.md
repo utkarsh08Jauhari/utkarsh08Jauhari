@@ -1,4 +1,4 @@
-## Hi there 👋
+## Profile Summary
 
 <!--
 ** />
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/3190c767-0d94-4565-8692-63591ea8a873" />
+<img width="2000" height="500" alt="github_banner" src="https://github.com/user-attachments/assets/3190c767-0d94-4565-8692-63591ea8a873" />
