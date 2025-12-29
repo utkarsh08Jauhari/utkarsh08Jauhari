@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh08Jauhari&theme=monokai
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJauhari&theme=monokai
 "  display=block width=150% height=auto  alt="1" ></center></td></b>
    </tr> 
 </table>
