@@ -1,4 +1,4 @@
-<h1 align="center">## Profile Summary
+<h1 align="center"> Profile Summary
 
 <!--
 ** />
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 <p align="left">
   <a href="https://github.com/UtkarshJauhari/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Utkarsh%20Jauhari!;I%20Love%20Coding%20❤;I%20am%20a%20Tech%20Enthusiast;I%20Like%20to%20Explore%20New%20Technologies;I%20am%20a%20Lifelong%20Learner.&font=Fira%20Code&left=true&width=500&height=45&color=61CC8C&vleft=true&size=24&duration=2500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Utkarsh%20Jauhari!;I%20Love%20Coding%20❤;I%20am%20a%20Tech%20Enthusiast;I%20Like%20to%20Explore%20New%20Technologies;I%20am%20a%20Lifelong%20Learner.&font=Fira%20Code&left=true&width=500&height=45&color=61CC8C&vleft=true&size=24&duration=3000">
   </a>
 </p>
 
