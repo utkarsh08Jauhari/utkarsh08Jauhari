@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-utkarsh08Jauhari/utkarsh08Jauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/b4a6ea14-f75f-4cb5-ba00-7d34681f1b9d"
+
+<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/3190c767-0d94-4565-8692-63591ea8a873" />
