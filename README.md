@@ -64,8 +64,8 @@ Productivity Stats📈:
 
   ![][java] ![][python] <br>
  ![][html] ![][css] ![][javascript] <br>
- ![][mysql]  ![][gcp]  ![][kubernetes] <br>
-![][git] ![][github] ![][markdown]<br>
+ ![][mysql] <br>
+![][git] ![][github]<br>
 </div><br>
 
 ## 📝 IDE Used:
