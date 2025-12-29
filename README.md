@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <!--
-**utkarsh08Jauhari/utkarsh08Jauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/b4a6ea14-f75f-4cb5-ba00-7d34681f1b9d" />
+** />
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+utkarsh08Jauhari/utkarsh08Jauhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="2000" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/b4a6ea14-f75f-4cb5-ba00-7d34681f1b9d"
