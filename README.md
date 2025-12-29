@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 </p>
 </h1>
 
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshJauhari&theme=monokai)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshJauhari&theme=monokai)
+
+
 
 
 
