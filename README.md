@@ -84,8 +84,6 @@ Productivity Stats📈:
 
 <br><br><br><br>
 
-[![An image of @unique_ananya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unique_ananya)](https://holopin.io/@unique_ananya)
-
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/ananya01agrawal/count.svg" />
