@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya01Agrawal&theme=monokai"  display=block width=150% height=auto  alt="1" ></center></td></b>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh08Jauhari&theme=monokai
+"  display=block width=150% height=auto  alt="1" ></center></td></b>
    </tr> 
 </table>
 </p>
@@ -44,7 +45,7 @@ Productivity Stats📈:
 
 
 ## 🏆 Github Trophies:
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananya01Agrawal&row=1&column=-1&theme=gruvbox" alt="utkarsh08Jauhari" /></a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh08Jauhari&row=1&column=-1&theme=gruvbox" alt="utkarsh08Jauhari" /></a> </div>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
