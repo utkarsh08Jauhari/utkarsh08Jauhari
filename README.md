@@ -36,13 +36,9 @@ Here are some ideas to get you started:
 Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya01Agrawal&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya01Agrawal&theme=monokai"  display=block width=150% height=auto  alt="1" ></center></td></b>
    </tr> 
 </table>
-<!--
-<a href="https://github.com/Ananya01Agrawal/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ananya01Agrawal&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>-->
 </p>
 
 
