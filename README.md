@@ -1,4 +1,4 @@
-
+  
 
 <!--
 ** />
@@ -92,7 +92,9 @@ Productivity Stats📈:
   <img src="https://profile-counter.glitch.me/ananya01agrawal/count.svg" />
 </p>
 
-My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+My Github Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08Jauhari&theme=github-dark&hide_border=true)
+
 </h2>
 
 <table>
