@@ -25,14 +25,12 @@ Here are some ideas to get you started:
 
 <h2 align="center"> A Tech Enthusiast </h2>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=UtkarshJauhari&label=Profile%20views&color=0e75b6&style=flat" alt="UtkarshJauhari" />
-</p>
-</h1>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh08Jauhari&theme=tokyonight)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshJauhari&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsh08Jauhari&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarsh08Jauhari&theme=tokyonight)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UtkarshJauhari&theme=monokai)
+
 
 
 
