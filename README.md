@@ -87,20 +87,16 @@ Productivity Stats📈:
 
 <br><br><br><br>
 
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/ananya01agrawal/count.svg" />
-</p>
-
 My Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08Jauhari&theme=github-dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true)
+
 
 </h2>
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Ananya01Agrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+![](https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true)
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ananya01Agrawal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
