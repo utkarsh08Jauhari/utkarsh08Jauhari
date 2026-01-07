@@ -87,11 +87,13 @@ Productivity Stats📈:
 
 <br><br><br><br>
 
-My Github Stats
-![](https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true)
+My Github Stats:
+
+![](https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=github-dark&hide_border=true)
 
 
-</h2>
+
+<!-- </h2>
 
 <table align="center">
   <tr>
@@ -101,7 +103,7 @@ My Github Stats
            width="100%" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
