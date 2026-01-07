@@ -37,12 +37,8 @@ Here are some ideas to get you started:
 
 
 Productivity Stats📈:
-<table>
-  <tr>
-    <td><center><img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshJauhari&theme=default)"  display=block width=150% height=auto  alt="1" ></center></td></b>
-   </tr> 
-</table>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarsh08Jauhari&theme=dracula)
+
 
 
 
