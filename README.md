@@ -93,19 +93,15 @@ My Github Stats
 
 </h2>
 
-<table>
-<tr>
-<td>
-<!-- ![](https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true) -->
-<td><img src="https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true"
-     alt="GitHub Streak Stats"
-     width="100%" />
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=utkarsh08Jauhari&theme=tokyonight&hide_border=true"
+           alt="GitHub Streak Stats"
+           width="100%" />
+    </td>
+  </tr>
 </table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya01Agrawal&theme=tokyonight" />
-</p>
 
 
 
