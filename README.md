@@ -40,8 +40,6 @@ Productivity Stats📈:
 
 
 ## 🏆 Other Networking:
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh08Jauhari&row=1&column=-1&theme=gruvbox" alt="utkarsh08Jauhari" /></a> </div>
-
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
