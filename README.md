@@ -106,7 +106,7 @@ My Github Stats
 
 
 
-<!----------------------------------{ language badges }--------------------------------->
+<!----------------------------------{ language badges }---------------------------------
 
 [c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
 [c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
@@ -122,11 +122,11 @@ My Github Stats
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
-[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white->
 
-<!----------------------------------{ reference links }--------------------------------->
+<!----------------------------------{ reference links }---------------------------------
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=Ananya01Agrawal&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya01Agrawal&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
-![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08Jauhari&theme=dark&background=0D1117&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh08Jauhari&theme=dark&background=0D1117&hide_border=true) ->
 
